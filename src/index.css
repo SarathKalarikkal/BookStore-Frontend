@@ -1062,7 +1062,8 @@ textarea.editer-inp{
   .user-profile-sec {
     padding: 41px 0;
   }
-
+.hero-banner h1,.hero-banner p{
+ color: white;
 }
 
 @media screen and (max-width: 992px) {
